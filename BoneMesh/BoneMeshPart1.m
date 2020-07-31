@@ -1,4 +1,3 @@
-%% Bone Project Nikki Yang
 clear all; clc;
 
 %%
