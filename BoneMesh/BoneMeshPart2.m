@@ -1,4 +1,3 @@
-%% ME4508 Project 2
 clear all; clc;
 
 total=csvread('Project2BASIC.csv');         %total nodes
